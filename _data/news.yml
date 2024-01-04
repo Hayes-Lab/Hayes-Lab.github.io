@@ -4,9 +4,5 @@
 - date: December 1, 2023
   headline: "**Hayes Lab Officially Opens**<img src='/images/newspic/231201_day1.png' class='img-responsive' style='max-width: 192px' />""
 
-- date: 29. October 2021
-  headline: "**Our new paper, on Cooper pairs above Tc, is published in [Science](https://www.science.org/doi/10.1126/science.abe3987)**.
-  See [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered), [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/)."
-
-- date: 17. Jan 2016
-  headline: "We discover electronic order and pseudogap in a non-cuprate materal! <img src='/images/newspic/order.png' class='img-responsive' style='max-width: 192px' />"
+#- date: 17. Jan 2016
+#  headline: "We discover electronic order and pseudogap in a non-cuprate materal! <img src='/images/newspic/order.png' class='img-responsive' style='max-width: 192px' />"
