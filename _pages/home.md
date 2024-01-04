@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**New Lab Alert!!** The Hayes Lab lead by Dr. Lindsay Hayes just opened in the Department of Cell Biology at the University of Oklahoma Health Sciences Center! We are actively recruiting research technicians, PhD students, and postdocs. Please contact me if you are interested.
+**New Lab Alert!!** The Hayes Lab led by Dr. Lindsay Hayes recently opened in the Department of Cell Biology at the University of Oklahoma Health Sciences Center!
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -63,7 +63,7 @@ Currently, we are located at Leiden University, the birthplace of superconductiv
 
 We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate and curious trainees to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 
