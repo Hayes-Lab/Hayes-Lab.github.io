@@ -56,20 +56,11 @@ permalink: /
 </div>
 
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+My research interests include determining how microglia infiltrate, pattern, and differentiate to their region-specific identity. Characterizing their developmental trajectory will highlight the regional and temporal susceptibility of various brain structures to developmental stressors. Furthermore, I aim to identify the regulatory mechanisms that control microglia activation through changes in microglia epigenetic and metabolic states which I found were both disturbed in response to prenatal immune stress. It is important to develop tools to control microglia reactivity which contributes to disease pathology of both developmental and neurodegenerative brain disorders. Altogether, my studies will provide a greater understanding of microglia activation to pinpoint windows of susceptibility to developmental stressors ultimately enabling the identification of novel targets for pharmacological intervention through manipulations of microglia.
 
-
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
-
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
-
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
-
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
+Find more details about the lab philosophy, ongoing projects, and list of publications. Find my teaching and mentorship experience here.
 
  **We are  looking for passionate and curious trainees to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
 
 
 <figure class="fourth">
