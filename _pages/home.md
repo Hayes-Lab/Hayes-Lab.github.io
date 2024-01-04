@@ -35,7 +35,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LH/UMAP_MG.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LH/Str.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LH/Str.tif" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LH/SATB2.tif" alt="Slide 6" />
