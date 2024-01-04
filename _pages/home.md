@@ -29,7 +29,6 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LH/MG2.tif" alt="Slide 2" />
         </div>
-        </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LH/FACS.jpg" alt="Slide 3" />
         </div>
