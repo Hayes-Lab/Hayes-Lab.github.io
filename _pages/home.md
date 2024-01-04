@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**New Lab Alert** The Hayes Lab lead by Dr. Lindsay Hayes just opened in the Department of Cell Biology at the University of Oklahoma Health Sciences Center! We are actively recruiting research technicians, PhD students, and postdocs. Please contact me if you are interested.
+**New Lab Alert!!** The Hayes Lab lead by Dr. Lindsay Hayes just opened in the Department of Cell Biology at the University of Oklahoma Health Sciences Center! We are actively recruiting research technicians, PhD students, and postdocs. Please contact me if you are interested.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -38,7 +38,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LH/Str.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LH/SATB2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/LH/SATB2.tif" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
