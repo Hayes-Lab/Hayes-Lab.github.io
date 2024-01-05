@@ -2,7 +2,7 @@
   photo: Lindsay.jpg
   info: Assistant Professor
   email: Lindsay-Hayes@ouhsc.edu
-  number_educ: 5
+  number_educ: 3
   education1: BS, Evangel University
   education2: PhD, Brown University
   education3: Postdoc, Johns Hopkins University
@@ -10,9 +10,9 @@
   education5:
 
 - name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  photo: BinocularsEmoji.jpg
+  info: See <a href="https://hayes-lab.github.io/vacancies">openings</a> for more info
+  email: lindsay-hayes@ouhsc.edu
   number_educ: 0
   education1:
   education2:
