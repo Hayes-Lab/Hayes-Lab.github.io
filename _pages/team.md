@@ -1,6 +1,6 @@
 ---
 title: "Hayes Lab - Group Members"
-layout: gridlay
+layout: team
 excerpt: "Hayes Lab: Group members"
 sitemap: false
 permalink: /team/
