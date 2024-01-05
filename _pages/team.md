@@ -8,7 +8,7 @@ permalink: /team/
 
 # Lab Members
 
-**We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are recruiting PhD students, Postdocs, and Research Technicians to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -75,7 +75,7 @@ permalink: /team/
 ## Alumni
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-5 clearfix">
 <h4>Graduate students</h4>
 {% for member in site.data.alumni_grad %}
 {{ member.name }}
@@ -89,7 +89,7 @@ permalink: /team/
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-5 clearfix">
 <h4>Undergraduates</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
