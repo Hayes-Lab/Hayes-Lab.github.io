@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**New Lab Alert!!** The Hayes Lab led by Dr. Lindsay Hayes recently opened in the Department of Cell Biology at the University of Oklahoma Health Sciences Center!
+**Mission Statement** Cultivate observant scientists that explore the mysteries of brain development and neuro-immune influences that impact human health.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -56,7 +56,7 @@ permalink: /
 </div>
 
 
-My research interests include determining how microglia infiltrate, pattern, and differentiate to their region-specific identity. Characterizing their developmental trajectory will highlight the regional and temporal susceptibility of various brain structures to developmental stressors. Furthermore, I aim to identify the regulatory mechanisms that control microglia activation through changes in microglia epigenetic and metabolic states which I found were both disturbed in response to prenatal immune stress. It is important to develop tools to control microglia reactivity which contributes to disease pathology of both developmental and neurodegenerative brain disorders. Altogether, my studies will provide a greater understanding of microglia activation to pinpoint windows of susceptibility to developmental stressors ultimately enabling the identification of novel targets for pharmacological intervention through manipulations of microglia.
+The Hayes Lab is interested in determining how microglia infiltrate, pattern, and differentiate to their region-specific identity. Characterizing their developmental trajectory will highlight the regional and temporal susceptibility of various brain structures to developmental stressors. Furthermore, I aim to identify the regulatory mechanisms that control microglia activation through changes in microglia epigenetic and metabolic states which I found were both disturbed in response to prenatal immune stress. It is important to develop tools to control microglia reactivity which contributes to disease pathology of both developmental and neurodegenerative brain disorders. Altogether, my studies will provide a greater understanding of microglia activation to pinpoint windows of susceptibility to developmental stressors ultimately enabling the identification of novel targets for pharmacological intervention through manipulations of microglia.
 
 Find more details about the lab philosophy, ongoing projects, and list of publications. Find my teaching and mentorship experience here.
 
