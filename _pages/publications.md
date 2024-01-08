@@ -1,10 +1,12 @@
 ---
-title: "Publications"
+title: "Hayes Lab -- Publications"
 layout: gridlay
-excerpt: "Hayes Lab -- Publications."
+excerpt: "Hayes Lab -- Publications"
 sitemap: false
 permalink: /publications/
 ---
+
+# Publications
 
 [link to Pubmed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lindsay.hayes.1/bibliography/public/)
 
