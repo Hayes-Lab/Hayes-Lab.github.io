@@ -72,7 +72,7 @@ permalink: /team/
 {% endif %}
 
 ## Former students
-<div class="row">
+<div class="row row-no-gutters">
 
 <div class="col-sm-5 clearfix">
 <h4>Graduate students</h4>
@@ -81,7 +81,7 @@ permalink: /team/
 {% endfor %}
 </div>
 
-<div class="col-sm-3 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Research Technicians</h4>
 {% for member in site.data.alumni_tech %}
 {{ member.name }}
