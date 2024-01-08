@@ -81,7 +81,7 @@ permalink: /team/
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-3.5 clearfix">
 <h4>Research Technicians</h4>
 {% for member in site.data.alumni_tech %}
 {{ member.name }}
