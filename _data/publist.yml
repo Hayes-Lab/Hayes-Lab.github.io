@@ -11,16 +11,16 @@
 
 - title: "Developmental Stressors Induce Innate Immune Memory in Microglia and Contribute to Disease Risk"
   image: 2021_Carloni.png
-  description: Text descriptions
+  description: 
   authors: Carloni E, Ramos A, Hayes LN
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/34884841/
     display: International Journal of Molecular Sciences (2021)
-  highlight: 0
+  highlight: 1
   
 - title: "A biomarker-authenticated model of schizophrenia implicating NPTX2 loss of function"
   image:
-  description: Text
+  description: 
   authors: Xiao MF, Roh SE, Zhou J, Chien CC, Lucey BP, Craig MT, Hayes LN, Coughlin JM, Leweke FM, Jia M, Xu D, Zhou W, Talbot C, Arnold DB, Staley M, Jiang C, Reti IM, Sawa A, Pelkey KA, McBain CJ, Savonenko A, Worley P
   link:
     url: https://pubmed.ncbi.nlm.nih.gov/34818031/
