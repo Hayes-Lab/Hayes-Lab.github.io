@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Hayes Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,9 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
-
-We are  looking for new group members with passion, talent, and grit!
+**We are looking for passionate and curious graduate students, postdoctoral fellows, and research technicians to join the team!**
 
 You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
 

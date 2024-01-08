@@ -3,7 +3,7 @@ title: "Hayes Lab -- Resources"
 layout: textlay
 excerpt: "Hayes Lab -- Resources"
 sitemap: false
-permalink: /values/
+permalink: /resources/
 ---
 
 # Helpful Links
