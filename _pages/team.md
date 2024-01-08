@@ -74,14 +74,14 @@ permalink: /team/
 ## Former students
 <div class="row">
 
-<div class="col-sm-4.5 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Graduate students</h4>
 {% for member in site.data.alumni_grad %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<div class="col-sm-3.5 clearfix">
+<div class="col-sm-3 clearfix">
 <h4>Research Technicians</h4>
 {% for member in site.data.alumni_tech %}
 {{ member.name }}
