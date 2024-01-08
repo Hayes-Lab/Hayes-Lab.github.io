@@ -7,6 +7,7 @@ permalink: /publications/
 ---
 
 # Publications
+
 *updated on 1/8/2024*
 
 [link to Pubmed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lindsay.hayes.1/bibliography/public/)
