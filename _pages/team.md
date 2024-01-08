@@ -1,14 +1,14 @@
 ---
-title: "Hayes Lab - Lab Members"
-layout: team
-excerpt: "Hayes Lab: Lab members"
+title: "Hayes Lab - Team"
+layout: gridlay
+excerpt: "Hayes Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Lab Members
 
-**We are recruiting PhD students, Postdocs, and Research Technicians to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are recruiting gradaute students, postdocs, and research technicians to join the team** [(Join Us)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -22,7 +22,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -71,8 +71,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-
-## Former Students
+## Former students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -89,7 +88,7 @@ permalink: /team/
 {% endfor %}
 </div>
 
-<div class="col-sm-/4 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Undergraduates</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
