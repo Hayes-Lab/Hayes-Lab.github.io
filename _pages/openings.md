@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Join Our Team!
 
 **We are looking for passionate and curious graduate students, postdoctoral fellows, and research technicians to join the team!**
 
