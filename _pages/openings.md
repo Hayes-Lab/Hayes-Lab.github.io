@@ -18,7 +18,7 @@ You find the current job openings here:
 [Research Technician]({{ site.baseurl }}/downloads/2024_ResearchTechnician.pdf),
 [Research Assistant]({{ site.baseurl }}/downloads/2024_ResearchAssistant.pdf),
 [Research Associate]({{ site.baseurl }}/downloads/2024_ResearchAssociate.pdf),
-[Staff Scientist]({{ site.baseurl }}/downloads/2024_StaffScientist.pdf),
+[Staff Scientist]({{ site.baseurl }}/downloads/2024_StaffScientist.pdf).
 
 
 ### Applications for Postdoctoral fellowships
