@@ -1,5 +1,5 @@
 ---
-title: "Hayes Lab -- Publications"
+title: "Hayes Lab - Publications"
 layout: gridlay
 excerpt: "Hayes Lab -- Publications"
 sitemap: false

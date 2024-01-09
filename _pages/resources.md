@@ -1,5 +1,5 @@
 ---
-title: "Hayes Lab -- Resources"
+title: "Hayes Lab - Resources"
 layout: textlay
 excerpt: "Hayes Lab -- Resources"
 sitemap: false

@@ -1,5 +1,5 @@
 ---
-title: "Hayes Lab -- Lab Philosophy"
+title: "Hayes Lab - Values"
 layout: textlay
 excerpt: "Hayes Lab -- Lab Philosophy"
 sitemap: false
