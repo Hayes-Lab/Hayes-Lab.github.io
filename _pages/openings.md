@@ -10,30 +10,26 @@ permalink: /vacancies
 
 **We are looking for passionate and curious graduate students, postdoctoral fellows, and research technicians to join the team!**
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+We have a number of diverse projects related to neuroscience, neuroimmunology, developmental biology, and aging research. We are a new research lab and you will be involved in getting many new projects up and running. This is an exciting time to go exploring and make new discoveries!
 
-### Past open positions
+### Open positions
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+You find the current job openings here:
+[Opening 1]({{ site.baseurl }}/downloads/2024_StaffScientist.pdf),
+[Opening 2]({{ site.baseurl }}/downloads/2024_ResearchTechnician.pdf),
+[Opening 3]({{ site.baseurl }}/downloads/2024_ResearchAssociate.pdf),
+[Opening 4]({{ site.baseurl }}/downloads/2024_ResearchAssistant.pdf),
 
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
+### Applications for Postdoctoral fellowships
+If you are interested in working with us as a postdoctoral fellow please send me an [email](mailto:lindsay-hayes@ouhsc.edu). Include a cover letter describing your interest in the lab, CV, and one publication. **Important**: please include "Your Name_Application" in the subject line. 
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+### Applications for PhD
+If you are interested in working with us as a PhD student, please apply through the OUHSC Graduate Program in Biomedical Sciences. [GPiBS](https://graduate.ouhsc.edu/Graduate-Programs/PhD-Programs/Graduate-Program-in-Biomedical-Sciences) Applications open in August and close in December or January. I currently accept students from the Cell Biology and Neuroscience Programs. Please reach out for more information. 
 
+### Oppurtunities for Undergraduates
+If you are an undergraduate and are looking for research experience check out the Summer Undergraduate Research Programs [SURPs](https://graduate.ouhsc.edu/Faculty-Research/SURP) and the Postbaccalaureate Research Education Program [PREP](https://graduate.ouhsc.edu/Programs/PREP).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/James+Yannan.jpg" width="95%">
 </figure>
