@@ -20,7 +20,7 @@ This project will explore the molecular mechanisms of how microglia "remember" e
 <br><br>
 
 #### Microglia heterogeneity in human disease
-Microglia can polarize to many different immune activation states in both human and mouse models. We aim to determine which microglia states are prevalent in human neuroinflammatory disorders and can shape clinical pathology and disease risk.<br><br>
+Microglia can polarize to many different immune activation states in both human and mouse models. We aim to determine which microglia states are prevalent in human neuroinflammatory disorders and can shape clinical pathology and disease risk.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/UMAP_MG.jpg){: style="width: 35%; float: right; margin: 0px"}
 
@@ -33,5 +33,4 @@ Microglia can polarize to many different immune activation states in both human 
 #### Microglia mediated regulation of striatal circuit development and activity
 We showed microglia imprinted by maternal immune activation impaired the circuit actiivty of dopamine receptor type 2 medium spiny neurons in the ventral striatum. The project will evaluate how microglia shape the development and activity of this circuit. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/Str.tif){: style="width: 50%; float: center; margin: 0px"}
-
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Str.tif){: style="width: 35%; float: center; margin: 0px"}
