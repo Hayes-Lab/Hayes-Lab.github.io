@@ -68,6 +68,6 @@ The main research questions are:
 3. How do heterogeneous microglia activation states impact human disease?
 
 Find more details about the [lab philosophy]({{ site.url }}{{ site.baseurl }}/values), [ongoing projects]({{ site.url }}{{ site.baseurl }}/research), and [publications]({{ site.url }}{{ site.baseurl }}/publications). 
-Find my teaching and mentoring experiences [here](https://lindsaynhayes.github.io/teaching.html).
+Find out more about [me](https://lindsaynhayes.github.io) and my teaching and mentoring experiences [here](https://lindsaynhayes.github.io/teaching.html).
 
  **We are  looking for passionate and curious trainees to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
