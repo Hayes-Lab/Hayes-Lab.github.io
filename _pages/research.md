@@ -19,12 +19,10 @@ This project will explore the molecular mechanisms of how microglia "remember" e
 
 <br><br>
 
-#### Microglia heterogeneity in human disease
-Microglia can polarize to many different immune activation states in both human and mouse models. We aim to determine which microglia states are prevalent in human neuroinflammatory disorders and can shape clinical pathology and disease risk.
-
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/UMAP_MG.jpg){: style="width: 35%; float: right; margin: 0px"}
 
-<br><br>
+#### Microglia heterogeneity in human disease
+Microglia can polarize to many different immune activation states in both human and mouse models. We aim to determine which microglia states are prevalent in human neuroinflammatory disorders and can shape clinical pathology and disease risk.
 
 <br><br>
 
