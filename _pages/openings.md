@@ -31,5 +31,5 @@ If you are interested in working with us as a PhD student, please apply through 
 If you are an undergraduate and are looking for research experience check out the Summer Undergraduate Research Programs [SURPs](https://graduate.ouhsc.edu/Faculty-Research/SURP) and the Postbaccalaureate Research Education Program [PREP](https://graduate.ouhsc.edu/Programs/PREP).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/James+Yannan.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/JHU_collage.jpg" width="95%">
 </figure>
