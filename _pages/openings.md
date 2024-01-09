@@ -15,10 +15,10 @@ We have a number of diverse projects related to neuroscience, neuroimmunology, d
 ### Open positions
 
 You find the current job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/2024_StaffScientist.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/2024_ResearchTechnician.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/2024_ResearchAssociate.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/2024_ResearchAssistant.pdf),
+[Research Technician]({{ site.baseurl }}/downloads/2024_ResearchTechnician.pdf),
+[Research Assistant]({{ site.baseurl }}/downloads/2024_ResearchAssistant.pdf),
+[Research Associate]({{ site.baseurl }}/downloads/2024_ResearchAssociate.pdf),
+[Staff Scientist]({{ site.baseurl }}/downloads/2024_StaffScientist.pdf),
 
 
 ### Applications for Postdoctoral fellowships
