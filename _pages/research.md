@@ -8,12 +8,11 @@ permalink: /research/
 
 # Research Projects
 
-<code class="highlighter-rouge">
-
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/2021_Carloni.png){: style="width: 50%; float: left; margin: 0px"}
 
+<code class="highlighter-rouge">
 #### Imprinting of Microglia by Developmental Stressors
-This project will explore the molecular mechanisms of how microglia "remember" early life stress exposures leading to an adaptation in their life-long response to future stimuli. We will evaluate mechanisms of innate immune memory including metabolic adaptations and epigenetic marks induced by maternal immune activation that persist across the lifespan of microglia from early development to aging.\<br>
+This project will explore the molecular mechanisms of how microglia "remember" early life stress exposures leading to an adaptation in their life-long response to future stimuli. We will evaluate mechanisms of innate immune memory including metabolic adaptations and epigenetic marks induced by maternal immune activation that persist across the lifespan of microglia from early development to aging.<br><br>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/UMAP_MG.jpg){: style="width: 35%; float: right; margin: 0px"}
 
