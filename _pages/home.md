@@ -31,7 +31,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/MG3.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/MG2.tif" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/MG2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/FACS.jpg" alt="Slide 3" />
@@ -43,10 +43,10 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/UMAP_MG.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Str.tif" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Str.jpg" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/SATB2.tif" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/SATB2.jpg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
