@@ -27,7 +27,7 @@ If you are interested in working with us as a postdoctoral fellow please send me
 ### Applications for PhD
 If you are interested in working with us as a PhD student, please apply through the OUHSC Graduate Program in Biomedical Sciences. [GPiBS](https://graduate.ouhsc.edu/Graduate-Programs/PhD-Programs/Graduate-Program-in-Biomedical-Sciences) Applications open in August and close in December or January. I currently accept students from the Cell Biology and Neuroscience Programs. Please reach out for more information. 
 
-### Oppurtunities for Undergraduates
+### Opportunities for Undergraduates
 If you are an undergraduate and are looking for research experience check out the Summer Undergraduate Research Programs [SURPs](https://graduate.ouhsc.edu/Faculty-Research/SURP) and the Postbaccalaureate Research Education Program [PREP](https://graduate.ouhsc.edu/Programs/PREP).
 
 <figure>
