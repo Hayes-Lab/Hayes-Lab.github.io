@@ -15,10 +15,10 @@ We have a number of diverse projects related to neuroscience, neuroimmunology, d
 ### Open positions
 
 You find the current job openings here:
-[Research Technician]({{ site.baseurl }}/downloads/2024_ResearchTechnician.pdf),
-[Research Assistant]({{ site.baseurl }}/downloads/2024_ResearchAssistant.pdf),
-[Research Associate]({{ site.baseurl }}/downloads/2024_ResearchAssociate.pdf),
-[Staff Scientist]({{ site.baseurl }}/downloads/2024_StaffScientist.pdf).
+[Research Technician](https://ou.taleo.net/careersection/2/jobdetail.ftl?job=240222&tz=GMT-06%3A00&tzname=America%2FChicago),
+[Research Assistant](https://ou.taleo.net/careersection/2/jobdetail.ftl?job=240221&tz=GMT-06%3A00&tzname=America%2FChicago),
+[Research Associate](https://ou.taleo.net/careersection/2/jobdetail.ftl?job=240219&tz=GMT-06%3A00&tzname=America%2FChicago),
+[Staff Scientist](https://ou.taleo.net/careersection/2/jobdetail.ftl?job=240214&tz=GMT-06%3A00&tzname=America%2FChicago).
 
 
 ### Applications for Postdoctoral fellowships
