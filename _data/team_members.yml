@@ -25,6 +25,15 @@
   education1: BS, Louisiana State University, Baton Rouge, LA
   education2: MS, Ecology, Oklahoma State University, Stillwater, OK
   education3: Fun Fact Has over 5 years of field reserach experience!
+  
+- name: Abril Gaona
+  photo: Abril.jpg
+  info: Graduate Student
+  email: MagdaAbril-GaonaGamboa@ouhsc.edu
+  number_educ: 3
+  education1: BS, Universidad Nacional Autonoma de Mexico, Mexico City, Mexico
+  education2: MS, Eotvos Lorand University, Budapest, Hungary
+  education3: Fun Fact Loves Chihuahuas!
 
 - name: "This could be you !"
   photo: BinocularsEmoji.jpg
