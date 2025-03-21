@@ -14,9 +14,13 @@ permalink: /publications/
 
 [link to Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXHtXP8CmkpG-GLig5B4MzBvK0by1LYxI938UwQ9bMXwoYP-Mm-3H4uKPKaTF3R5UZ-ZP0aKe0LJ0ybcaYHbO5Y&user=xZ4hUFwAAAAJ)
 
+1.	Jaskiw GE, Obrenovich ME, Donskey CJ, Briggs, FBS, Chung SS, Kalinina AI, Bolomey A, **Hayes LN**, Yang K, Yolken RH, Sawa A (2025) Targeted and non-targeted metabolic evaluation of cerebrospinal fluid in early phase schizophrenia: a pilot study from the Hopkins First Episode Psychosis project. Metabolites. *Accepted*
+
+1. Huston CA, Milan M, Vance ML, Bickel MA, Miller LR, Negri S, Hibbs C, Vaden H, **Hayes LN**, Csiszar A, Ungvari Z, Yabluchanskiy A, Tarantini S, Conley SM (2024) The effects of time restricted feeding on age-related changes in the mouse retina. Experimental Gerontology. 194:112510. [link](https://www.sciencedirect.com/science/article/pii/S0531556524001529#ab0010)
+
 1. **Hayes LN**, An K, Carloni E, Li F, Vincent E, Paranjpe M, Dolen G, Goff LA, Ramos A, Kano S, Sawa A (2022) Prenatal immune stress induces a prolonged blunting of microglia activation that impacts striatal connectivity. *Nature*, 610(7931):327-334 [link](https://www.nature.com/articles/s41586-022-05274-z)
 
-1. Ramos A, Ishizuka K, Namkung H, **Hayes LN**, Saito A, Sengupta A, Srivastava R, Calva C, Hayashida A, Elkins N, Palen T, Carloni E, Tsujimura T, Gallego JA, Robinson DG, Malhotra AK, Ikemoto S, Rais R, Slusher BS, Niwa M, Saitoh T, Takimoto E, Sawa A (2022) The nuclear GAPDH-HMBG cascade in cortical microglia regulates cognitive flexibility. *bioRxiv*, 2022.06.21.497065 [link](https://www.biorxiv.org/content/10.1101/2022.06.21.497065v3)
+1. Ramos A, Ishizuka K, Namkung H, **Hayes LN**, Saito A, Sengupta A, Srivastava R, Calva C, Hayashida A, Elkins N, Palen T, Carloni E, Tsujimura T, Gallego JA, Robinson DG, Malhotra AK, Ikemoto S, Rais R, Slusher BS, Niwa M, Saitoh T, Takimoto E, Sawa A (2022) The nuclear GAPDH-HMBG cascade in cortical microglia regulates cognitive flexibility. **Molecular Psychiatry** 29(10), 2967-2978.  [link](https://www.nature.com/articles/s41380-024-02553-1)
 
 2.  Carloni E, Ramos A, **Hayes LN** (2021) Developmental Stressors Induce Innate Immune Memory in Microglia and Contribute to Disease Risk. *International Journal of Molecular Sciences*, 22:13035. [link](https://www.mdpi.com/1422-0067/22/23/13035)
 
