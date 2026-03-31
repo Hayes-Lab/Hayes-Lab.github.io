@@ -8,11 +8,15 @@ permalink: /publications/
 
 # Publications
 
-*updated on 3/21/2025*
+*updated on 3/31/2026*
 
 [link to Pubmed Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/lindsay.hayes.1/bibliography/public/)
 
 [link to Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAXHtXP8CmkpG-GLig5B4MzBvK0by1LYxI938UwQ9bMXwoYP-Mm-3H4uKPKaTF3R5UZ-ZP0aKe0LJ0ybcaYHbO5Y&user=xZ4hUFwAAAAJ)
+
+1.	Camfield S, Gaona-Gamboa A, Hibbs CL, **Hayes LN†**. (2026) Generation of the Early-Gestational Maternal Immune Activation Mouse Model to Assess Prenatal Inflammation on Neurodevelopment. **Journal of Visualized Experiments (JoVE)** (in press)
+
+1.	Dos Santos M, Forrest MP, Bomba-Warczak E, Dey S, Parnell E, Christiansen JM, Edassery SL, Yang K, **Hayes LN**, Coughlin JM, Eckman BL, Lammert CR, Martin-de-Saavedra MD, Barbolina MV, Martina M, Sawa A, Savas JN, Penzes P. (2026) Soluble a20-1, altered in disease CSF, modulates network homeostasis and rescues deficits in a neuropsychiatric mouse model. **Neuron** (in press)
 
 1.	Jaskiw GE, Obrenovich ME, Donskey CJ, Briggs, FBS, Chung SS, Kalinina AI, Bolomey A, **Hayes LN**, Yang K, Yolken RH, Sawa A (2025) Targeted and non-targeted metabolic evaluation of cerebrospinal fluid in early phase schizophrenia: a pilot study from the Hopkins First Episode Psychosis project. Metabolites. *Accepted*
 
