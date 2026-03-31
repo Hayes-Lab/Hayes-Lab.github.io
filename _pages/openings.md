@@ -15,11 +15,11 @@ We have a number of diverse projects related to neuroscience, neuroimmunology, d
 ### Open positions
 
 You find the current job openings here:
-[Research Technician](https://ou.taleo.net/careersection/2/jobdetail.ftl?job=240222&tz=GMT-06%3A00&tzname=America%2FChicago),
-[Research Assistant](https://ou.taleo.net/careersection/2/jobdetail.ftl?job=240221&tz=GMT-06%3A00&tzname=America%2FChicago),
-[Research Associate](https://ou.taleo.net/careersection/2/jobdetail.ftl?job=240219&tz=GMT-06%3A00&tzname=America%2FChicago),
-[Staff Scientist](https://ou.taleo.net/careersection/2/jobdetail.ftl?job=240214&tz=GMT-06%3A00&tzname=America%2FChicago).
+[Research Technician](https://ou.taleo.net/careersection/2/jobdetail.ftl?job=260607&tz=GMT-07%3A00&tzname=America%2FLos_Angeles)
 
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/adver26.pdf" width="95%">
+</figure>
 
 ### Applications for Postdoctoral fellowships
 If you are interested in working with us as a postdoctoral fellow please send me an [email](mailto:lindsay-hayes@ouhsc.edu). Include a cover letter describing your interest in the lab, CV, and one publication. **Important**: please include "Your Name_Application" in the subject line. 

@@ -26,7 +26,7 @@ permalink: /publications/
 
 1. Ramos A, Ishizuka K, Namkung H, **Hayes LN**, Saito A, Sengupta A, Srivastava R, Calva C, Hayashida A, Elkins N, Palen T, Carloni E, Tsujimura T, Gallego JA, Robinson DG, Malhotra AK, Ikemoto S, Rais R, Slusher BS, Niwa M, Saitoh T, Takimoto E, Sawa A (2022) The nuclear GAPDH-HMBG cascade in cortical microglia regulates cognitive flexibility. **Molecular Psychiatry** 29(10), 2967-2978.  [link](https://www.nature.com/articles/s41380-024-02553-1)
 
-2.  Carloni E, Ramos A, **Hayes LN** (2021) Developmental Stressors Induce Innate Immune Memory in Microglia and Contribute to Disease Risk. *International Journal of Molecular Sciences*, 22:13035. [link](https://www.mdpi.com/1422-0067/22/23/13035)
+2.  Carloni E, Ramos A, **Hayes LN†** (2021) Developmental Stressors Induce Innate Immune Memory in Microglia and Contribute to Disease Risk. *International Journal of Molecular Sciences*, 22:13035. [link](https://www.mdpi.com/1422-0067/22/23/13035)
 
 3.  Xiao MF, Roh SE, Zhou J, Chien CC, Lucey BP, Craig MT, **Hayes LN**, Coughlin JM, Leweke FM, Jia M, Xu D, Zhou W, Conover Talbot C, Arnold DB, Staley M, Jiang C, Reti IM, Sawa A, Pelkey KA, McBain CJ, Savonenko A et al. (2021) A biomarker-authenticated model of schizophrenia implicating NPTX2 loss of function. *Science Advances*, 7:eabf6935. [link](https://www.science.org/doi/10.1126/sciadv.abf6935?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
