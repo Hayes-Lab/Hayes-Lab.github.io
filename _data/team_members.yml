@@ -24,7 +24,7 @@
   number_educ: 3
   education1: BS, Universidad Nacional Autonoma de Mexico, Mexico City, Mexico
   education2: MS, Eotvos Lorand University, Budapest, Hungary
-  education3: Fun Fact: Loves Chihuahuas!
+  education3: Fun Fact Loves Chihuahuas!
 
 - name: Clara Hibbs
   photo: Clara_v2.jpg
@@ -32,7 +32,7 @@
   email: Clara-Hibbs@ouhsc.edu
   number_educ: 2
   education1: BS, University of Central Oklahoma
-  education2: Fun Fact: plays on a competitive trivia team!
+  education2: Fun Fact plays on a competitive trivia team!
   education3:
   
 - name: Abigail Haskew
@@ -40,7 +40,7 @@
   info: Undergraduate Student
   number_educ: 2
   education1: Oklahoma Christian Univesity
-  education2: Fun Fact: is from Vienna, Austria!
+  education2: Fun Fact is from Vienna, Austria!
   education3:
 
 - name: "This could be you !"
