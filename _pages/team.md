@@ -8,7 +8,7 @@ permalink: /team/
 
 # Lab Members
 
- **We are recruiting gradaute students, postdocs, and research technicians to join the team** [(Join Us)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are recruiting graduate students, postdocs, and research technicians to join the team** [(Join Us)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
