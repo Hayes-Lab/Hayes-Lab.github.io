@@ -9,7 +9,7 @@ permalink: /projects/
 # Data Analysis Records for Hayes Lab Publications
 
 
-## **Gaona-Gamboa et al. 2026 Fluids and Barries of the CNS**
+## **Gaona-Gamboa et al. 2026 Fluids and Barriers of the CNS**
 
 [html-link](https://hayes-lab.github.io/Gaona-Gamboa_HIV/)
 
