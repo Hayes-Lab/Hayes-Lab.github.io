@@ -18,7 +18,7 @@ permalink: /publications/
 
 1.	Dos Santos M, Forrest MP, Bomba-Warczak E, Dey S, Parnell E, Christiansen JM, Edassery SL, Yang K, **Hayes LN**, Coughlin JM, Eckman BL, Lammert CR, Martin-de-Saavedra MD, Barbolina MV, Martina M, Sawa A, Savas JN, Penzes P. (2026) Soluble a20-1, altered in disease CSF, modulates network homeostasis and rescues deficits in a neuropsychiatric mouse model. **Neuron** (in press)
 
-1.	Jaskiw GE, Obrenovich ME, Donskey CJ, Briggs, FBS, Chung SS, Kalinina AI, Bolomey A, **Hayes LN**, Yang K, Yolken RH, Sawa A (2025) Targeted and non-targeted metabolic evaluation of cerebrospinal fluid in early phase schizophrenia: a pilot study from the Hopkins First Episode Psychosis project. Metabolites. *Accepted*
+1.	Jaskiw GE, Obrenovich ME, Donskey CJ, Briggs, FBS, Chung SS, Kalinina AI, Bolomey A, **Hayes LN**, Yang K, Yolken RH, Sawa A (2025) Targeted and non-targeted metabolic evaluation of cerebrospinal fluid in early phase schizophrenia: a pilot study from the Hopkins First Episode Psychosis project. *Metabolites*, 15;15(4):275
 
 1. Huston CA, Milan M, Vance ML, Bickel MA, Miller LR, Negri S, Hibbs C, Vaden H, **Hayes LN**, Csiszar A, Ungvari Z, Yabluchanskiy A, Tarantini S, Conley SM (2024) The effects of time restricted feeding on age-related changes in the mouse retina. Experimental Gerontology. 194:112510. [link](https://www.sciencedirect.com/science/article/pii/S0531556524001529#ab0010)
 
