@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Hayes Lab at OUHSC."
+excerpt: "Hayes Lab at OUHC."
 sitemap: false
 permalink: /allnews.html
 ---
